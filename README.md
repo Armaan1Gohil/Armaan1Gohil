@@ -1,16 +1,47 @@
-## Hi there 👋
+# Armaan Gohil - Data Engineer
 
-<!--
-**Armaan1Gohil/Armaan1Gohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm Armaan Gohil, a passionate Data Engineer with over 2 years of experience in developing and optimizing data pipelines and ETL processes. My expertise lies in Python, PySpark, SQL, and cloud technologies, with a focus on delivering actionable insights and automating workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+- **Programming Languages:** Python, SQL
+- **Data Engineering:** Databricks, Apache Airflow, DBT, DLTHub, PySpark, ETL, Data Warehousing, Hive, Hadoop, Shell Scripting
+- **Cloud Platforms:** AWS, GCP
+- **Tools:** Docker, Git, CI/CD, Tableau, Terraform
+
+## 🌟 Professional Experience
+### Data Consultant at Eucloid Data Solutions
+- **Project:** Samsung US
+  - Designed and implemented an ETL pipeline for data ingestion from Eloqua, doubling fortnightly deliverables.
+  - Automated Monthly Business Reviews (MBRs) by integrating Adobe Analytics data with Python, enhancing insights delivery.
+
+### Senior Engineer at Larsen and Toubro - Railway Business Group
+- Developed a KPI-driven dashboard, reducing reporting time by 50% and boosting productivity.
+- Automated Overhead Cables Material calculations, streamlining processes.
+- Optimized simulation studies for major projects, including the Mauritius Metro, achieving significant cost reductions.
+
+## 📈 Projects
+- **Web App:** Developed a web app using Dash and Pandas to visualize metro schedules, integrated with Microsoft Clarity and Google Analytics.
+- **Data Visualization & Analysis:** Conducted comprehensive data analysis and visualization using Pandas, Beautiful Soup, NumPy, and Matplotlib.
+
+## 🚀 Current Focus
+- 🔭 I’m currently working on NDAP Indian Government Data Engineering Project and NYC Taxi Data Project.
+- 🌱 I’m currently learning advanced machine learning techniques and big data processing with Apache Spark.
+- 👯 I’m looking to collaborate on innovative data engineering and data analytics projects.
+- 🤔 I’m looking for help with enhancing my skills in real-time data streaming and processing.
+- 💬 Ask me about data engineering, cloud technologies, and data visualization.
+- 📫 How to reach me: [armaangohil@hotmail.com](mailto:armaangohil@hotmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring data from different domains and turning them into compelling visual stories!
+
+## 🌐 Connect with Me
+- **LinkedIn:** [linkedin.com/in/armaan-gohil](https://www.linkedin.com/in/armaan-gohil/)
+- **Projects & Profiles:**
+  - [Metro Schedule Web App](https://metro-schedule.onrender.com/)
+  - [GitHub Projects](https://github.com/Armaan1Gohil/)
+  - [Tableau Profile](https://public.tableau.com/app/profile/armaan.gohil)
+  - [HackerRank Profile](https://www.hackerrank.com/profile/armaangohil1998)
+  - [Credly Badges](https://www.credly.com/users/armaan-gohil/badges)
+
+Feel free to explore my repositories and connect with me for collaboration or any inquiries!
