@@ -30,12 +30,9 @@ I'm Armaan Gohil, a passionate Data Engineer with over 2 years of experience in 
 - 🌱 I’m currently learning advanced machine learning techniques and big data processing with Apache Spark.
 - 👯 I’m looking to collaborate on innovative data engineering and data analytics projects.
 - 🤔 I’m looking for help with enhancing my skills in real-time data streaming and processing.
-- 💬 Ask me about data engineering, cloud technologies, and data visualization.
-- 📫 How to reach me: [armaangohil@hotmail.com](mailto:armaangohil@hotmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring data from different domains and turning them into compelling visual stories!
 
 ## 🌐 Connect with Me
+- **Email:** [armaangohil@hotmail.com](mailto:armaangohil@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/armaan-gohil](https://www.linkedin.com/in/armaan-gohil/)
 - **Projects & Profiles:**
   - [Metro Schedule Web App](https://metro-schedule.onrender.com/)
