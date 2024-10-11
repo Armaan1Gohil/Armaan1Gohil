@@ -1,4 +1,4 @@
-# Armaan Gohil - Data Engineer
+# Armaan Gohil - Data Enthusiast
 
 ### 👋 Welcome to my GitHub profile!
 
