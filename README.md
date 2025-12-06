@@ -34,11 +34,5 @@ I'm Armaan Gohil, a passionate Data Engineer with over 2 years of experience in 
 ## 🌐 Connect with Me
 - **Email:** [armaangohil@hotmail.com](mailto:armaangohil@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/armaan-gohil](https://www.linkedin.com/in/armaan-gohil/)
-- **Projects & Profiles:**
-  - [Metro Schedule Web App](https://metro-schedule.onrender.com/)
-  - [GitHub Projects](https://github.com/Armaan1Gohil/)
-  - [Tableau Profile](https://public.tableau.com/app/profile/armaan.gohil)
-  - [HackerRank Profile](https://www.hackerrank.com/profile/armaangohil1998)
-  - [Credly Badges](https://www.credly.com/users/armaan-gohil/badges)
 
 Feel free to explore my repositories and connect with me for collaboration or any inquiries!
