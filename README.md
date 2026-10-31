@@ -11,6 +11,11 @@ I'm Armaan Gohil, a passionate Data Engineer with over 2 years of experience in 
 - **Tools:** Docker, Git, CI/CD, Tableau, Terraform
 
 ## 🌟 Professional Experience
+
+### Associate, Data Engineer at BlackRock
+  - Migrated Informatica/Sybase pipelines to dbt on Snowflake, developing scalable ELT transformations, data quality checks, and CI/CD automation.
+  - Built RAG and MCP-based AI solutions to retrieve pipeline logic, identify discrepancies, and connect development workflows with business context, improving engineering productivity and pipeline reliability.
+
 ### Data Consultant at Eucloid Data Solutions
 - **Project:** Samsung US
   - Designed and implemented an ETL pipeline for data ingestion from Eloqua, doubling fortnightly deliverables.
@@ -22,8 +27,8 @@ I'm Armaan Gohil, a passionate Data Engineer with over 2 years of experience in 
 - Optimized simulation studies for major projects, including the Mauritius Metro, achieving significant cost reductions.
 
 ## 📈 Projects
-- **Web App:** Developed a web app using Dash and Pandas to visualize metro schedules, integrated with Microsoft Clarity and Google Analytics.
-- **Data Visualization & Analysis:** Conducted comprehensive data analysis and visualization using Pandas, Beautiful Soup, NumPy, and Matplotlib.
+- **Data Engineering Platform:** Built a reproducible open-source data platform for data ingestion, versioned storage and analytical
+querying, using Apache Spark, Apache Iceberg, Nessie, Trino, S3, Superset and PostgreSQL. 
 
 ## 🚀 Current Focus
 - 🔭 I’m currently working on NDAP Indian Government Data Engineering Project and NYC Taxi Data Project.
