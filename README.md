@@ -14,7 +14,7 @@ I'm Armaan Gohil, a passionate Data Engineer with over 2 years of experience in 
 
 ### Associate, Data Engineer at BlackRock
   - Migrated Informatica/Sybase pipelines to dbt on Snowflake, developing scalable ELT transformations, data quality checks, and CI/CD automation.
-  - Built RAG and MCP-based AI solutions to retrieve pipeline logic, identify discrepancies, and connect development workflows with business context, improving engineering productivity and pipeline reliability.
+  - Built RAG and MCP based AI solutions to retrieve pipeline logic, identify discrepancies, and connect development workflows with business context, improving engineering productivity and pipeline reliability.
 
 ### Data Consultant at Eucloid Data Solutions
 - **Project:** Samsung US
