@@ -2,7 +2,7 @@
 
 ### 👋 Welcome to my GitHub profile!
 
-I'm Armaan Gohil, a passionate Data Engineer with over 2 years of experience in developing and optimizing data pipelines and ETL processes. My expertise lies in Python, PySpark, SQL, and cloud technologies, with a focus on delivering actionable insights and automating workflows.
+I'm Armaan Gohil, a passionate Data Engineer with over 5 years of experience in developing and optimizing data pipelines and ETL processes. My expertise lies in Python, PySpark, SQL, and cloud technologies, with a focus on delivering actionable insights and automating workflows.
 
 ## 🔧 Skills & Technologies
 - **Programming Languages:** Python, SQL
